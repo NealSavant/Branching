@@ -9,6 +9,7 @@
 * `git log` - view commit log
 * `git log --oneline` - view commit log one line per
 * `git log --oneline` - Compact view of commit log
+* `git remote add origin URL` - connect local repository to remote URL
 
 ### Basic Branching
 
