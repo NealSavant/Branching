@@ -11,4 +11,6 @@
 
 ### Basic Branching
 
-* `git branch` - show branches, curren branch 
+* `git branch` - show branches, curren branch
+* `git branch branchName` - create branch `branchName`
+* `git checkout branchName` - check out the branch
