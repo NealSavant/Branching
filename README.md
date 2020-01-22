@@ -7,3 +7,8 @@
 * `git commit -m "message"` - commit to local repo
 * `git status` - see status of local repo
 * `git log` - view commit log
+* `git log --oneline` - view commit log one line per
+
+### Basic Branching
+
+* `git branch` - show branches, curren branch 
